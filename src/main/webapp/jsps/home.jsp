@@ -17,7 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Hello Everyone...
+		Hello 
 		Mithun Technologies, 
 		Martha Halli,
 		Bangalore,
