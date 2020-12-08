@@ -33,5 +33,6 @@ stage('Send Email Notification')
 Regards,
 lakshmi.''', subject: 'build is successful', to: 'bhuludondeti@gmail.com'
 }
-}
 */
+}
+
