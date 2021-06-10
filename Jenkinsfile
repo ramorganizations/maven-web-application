@@ -10,7 +10,6 @@ stage('Getting code from GitHub')
 stage('Build')
 {
   sh "${mavenHome}/bin/mvn clean package" 
- 
 }
  /*
 stage('Execute SonarQube Report')
